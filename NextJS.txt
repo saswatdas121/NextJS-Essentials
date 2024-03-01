@@ -1,0 +1,14 @@
+How SSG works?Client Side Rendering vs Server Side rendering
+
+https://www.joshwcomeau.com/react/server-components/
+
+Styling in NextJS:
+1)CSS Modules:
+Using styles.moudule.css filename
+Then we have to give className to elements
+
+2)Adding Styles in global.css
+
+For getting the path
+usePathName() hook in NextJs
+import from next/navigate
